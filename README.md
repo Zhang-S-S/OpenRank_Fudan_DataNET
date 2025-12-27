@@ -1,2 +1,2 @@
 # Openrank_Fudan_DataNET
-<img width="1051" height="595" alt="image" src="https://github.com/user-attachments/assets/5d7b2ca0-62a2-446f-9d12-2494842a6d4a" />
+<img width="1106" height="629" alt="image" src="https://github.com/user-attachments/assets/74f2d125-3675-47ef-a109-65df96f838bf" />
