@@ -1,5 +1,6 @@
 # Openrank_Fudan_DataNET
-<img width="1106" height="629" alt="image" src="https://github.com/user-attachments/assets/74f2d125-3675-47ef-a109-65df96f838bf" />
+<img width="1199" height="676" alt="image" src="https://github.com/user-attachments/assets/fdd3fe8c-4a7b-42c6-9950-842dc19e69fc" />
+
 
 ## 关联开源项目（赛题）：
 
