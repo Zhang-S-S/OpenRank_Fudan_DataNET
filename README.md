@@ -54,7 +54,7 @@ cd OpenRank_Fudan_DataNET
 
 #### 2.2 运行 bench  
 ```bash
-python bench.py
+python 复赛/代码/测试代码/bench.py
 ```
 
 #### 2.3 输出  
