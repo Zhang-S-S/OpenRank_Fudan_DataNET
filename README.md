@@ -66,7 +66,7 @@ python 复赛/代码/测试代码/bench.py
 
 对应EasyGraph++算法的实现文件路径如下：
 
-- Betweenness：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/betweenness.cpp`
+- Betweenness：`https://github.com/Zhang-S-S/OpenRank_Fudan_DataNET/blob/main/%E5%A4%8D%E8%B5%9B/%E4%BB%A3%E7%A0%81/EasyGraph%2B%2B/cpp_easygraph/functions/centrality/betweenness.cpp`
 - Closeness：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/closeness.cpp`
 - PageRank：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/pagerank/pagerank.cpp`
 - Katz：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/katz_centrality.cpp`
