@@ -61,3 +61,14 @@ python bench.py
 运行完成后会在当前目录生成 `result/`，包含各指标的输出文件（如 `pagerank_result.txt` 等）。
 
 > 若提示找不到 `ca-HepPh.txt`：请检查运行目录是否正确，或修改 `bench.py` 里的 `file_path` 为你的实际路径
+
+## 3. EasyGraph++ 实现位置
+
+对应EasyGraph++算法的实现文件路径如下：
+
+- Betweenness：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/betweenness.cpp`
+- Closeness：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/closeness.cpp`
+- PageRank：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/pagerank/pagerank.cpp`
+- Katz：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/katz_centrality.cpp`
+- Eigenvector：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/centrality/eigenvector.cpp`
+- Constraint：`OpenRank_Fudan_DataNET/复赛/代码/EasyGraph++/cpp_easygraph/functions/structural_holes/evaluation.cpp`
