@@ -67,6 +67,7 @@ After the execution is completed, a result/ directory will be generated in the c
 ## 3.Video
 We've recorded a step-by-step video tutorial on setting up EasyGraph++ on a new server. If you're interested, you can click the link to watch it.
 【Openrank_Fudan_DataNET_复赛视频】 https://www.bilibili.com/video/BV1znrpBaESC/?share_source=copy_web&vd_source=ee9f55a2cfdec247565d62945e37ce8e
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115892729943649&bvid=BV1znrpBaESC&cid=35380463491&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 4. EasyGraph++ implementation location
 
